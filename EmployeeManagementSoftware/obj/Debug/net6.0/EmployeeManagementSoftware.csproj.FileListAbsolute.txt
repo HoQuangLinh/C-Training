@@ -1,0 +1,15 @@
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\bin\Debug\net6.0\EmployeeManagementSoftware.exe
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\bin\Debug\net6.0\EmployeeManagementSoftware.deps.json
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\bin\Debug\net6.0\EmployeeManagementSoftware.runtimeconfig.json
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\bin\Debug\net6.0\EmployeeManagementSoftware.dll
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\bin\Debug\net6.0\EmployeeManagementSoftware.pdb
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.csproj.AssemblyReference.cache
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.AssemblyInfoInputs.cache
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.AssemblyInfo.cs
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.csproj.CoreCompileInputs.cache
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.dll
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\refint\EmployeeManagementSoftware.dll
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.pdb
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\EmployeeManagementSoftware.genruntimeconfig.cache
+D:\c#\EmployeeManagementSoftware\EmployeeManagementSoftware\obj\Debug\net6.0\ref\EmployeeManagementSoftware.dll
